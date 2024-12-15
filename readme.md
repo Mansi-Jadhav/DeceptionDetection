@@ -46,6 +46,7 @@ Note that we have also tried a few ensemble models like **Random Forest Classifi
 
 
 **References:**
+
 A. R. Bhamare, S. Katharguppe and J. Silviya Nancy, "Deep Neural Networks for Lie Detection with Attention on Bio-signals," 2020 7th International Conference on Soft Computing & Machine Intelligence (ISCMI), Stockholm, Sweden, 2020: https://ieeexplore.ieee.org/document/9311575
 
 Xiaohe Fan, Heming Zhao, Xueqin Chen, Cheng Fan and Shuxi Chen, "Deceptive Speech Detection based on sparse representation," 2016 IEEE 12th International Colloquium on Signal Processing & Its Applications (CSPA), Malacca City, 2016: https://ieeexplore.ieee.org/document/7515793
